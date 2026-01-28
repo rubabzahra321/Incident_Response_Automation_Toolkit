@@ -1,0 +1,24 @@
+From: security@amazon-prime-refund-case-support.org
+To: user@example.com
+Subject: Important: Refund confirmation required
+Received: from mail.amazon-prime-refund-case-support.org (203.13.25.19)
+
+From: support@paypal.com
+To: client@test.com
+Subject: Your account has been limited
+Received: from unknown.host.com (188.143.32.200)
+
+From: hr@company.com
+To: manager@company.com
+Subject: Official HR Policy Update
+Received: from internal.server.local (10.0.0.14)
+
+From: claims@fakebank-support-helpdesk.com
+To: user2@example.com
+Subject: Account temporarily suspended
+Received: from server.fakebank-support-helpdesk.com (91.107.132.155)
+
+From: updates@microsoft.com
+To: employee@test.com
+Subject: Security patch release
+Received: from mail.microsoft.com (40.112.72.205)
